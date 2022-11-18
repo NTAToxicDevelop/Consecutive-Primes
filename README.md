@@ -1,0 +1,3 @@
+# Consecutive-Primes
+Consecutive Primes viết bởi Hayashi Kazuhiko
+Chương trình chạy còn chậm nhưng có thể tối ưu thêm bằng cách sàng nguyên tố và tính trước, ...
